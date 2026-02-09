@@ -1,0 +1,16 @@
+{
+  "credentials": {
+    "email": "gopinathv@gmail.com",
+    "password": "Gopiecom@123"
+  },
+  "urls": {
+    "baseUrl": "https://rahulshettyacademy.com",
+    "loginUrl": "https://rahulshettyacademy.com/client/#/auth/login",
+    "dashboardUrl": "https://rahulshettyacademy.com/client/#/dashboard/dash",
+    "cartUrl": "https://rahulshettyacademy.com/client/#/dashboard/cart"
+  },
+  "products": {
+    "productName": "zara coat 3",
+    "productPrice": "$11500"
+  }
+}
